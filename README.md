@@ -1,2 +1,0 @@
-# secupay
-Created with CodeSandbox
